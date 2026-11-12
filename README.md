@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # PayPilot AI
@@ -260,3 +261,6 @@ no placeholder images ship with the repo.
 ## License
 
 MIT — see [`LICENSE`](LICENSE).
+=======
+# PayPilot_AI
+>>>>>>> 28e1d8f1618c16780e069507ab668c906ac81315
